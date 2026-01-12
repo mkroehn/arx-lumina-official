@@ -323,7 +323,7 @@ See Fate Core rulebook for detailed Stunt creation rules.
 
 ## QUICK REFERENCE: FATE SKILLS
 
-**Physical:** Athletik, Kämpfen, Kraft, Schießen, Fahren  
+**Physical:** Athletik, Fight, Kraft, Schießen, Fahren  
 **Mental:** Wissen, Nachforschung, Wahrnehmung, Wille  
 **Social:** Charisma, Kontakte, Täuschung, Provozieren, Empathie  
 **Practical:** Handwerk, Ressourcen, Überleben, Einbruch, Heimlichkeit
@@ -334,7 +334,7 @@ See Fate Core rulebook for detailed Stunt creation rules.
 
 **Skill Suggestions:**
 - Look at activity patterns, not individual activities
-- Offer variety (don't always suggest Kämpfen)
+- Offer variety (don't always suggest Fight)
 - Consider character archetype developing
 
 <div style="page-break-after: always"></div>
@@ -372,9 +372,9 @@ See Fate Core rulebook for detailed Stunt creation rules.
 - No other mechanical change
 
 **Roll 3:** +3 → Artifact!  
-- GM rolls: Kämpfen, Wissen  
-- Player chooses: Kämpfen  
-- Strength roll: +2 → Kämpfen+2 (1x per day)  
+- GM rolls: Fight, Wissen  
+- Player chooses: Fight  
+- Strength roll: +2 → Fight+2 (1x per day)  
 - Description: "Captain's Ceremonial Sword - awarded for first successful mission defense"
 
 **After 8-10 weeks:** Character complete, ready for first adventure
@@ -432,7 +432,7 @@ What will you be remembered for?
 
 ## EXAMPLE VIGNETTE
 Character: Guard Sergeant Marcus, just turned 30
-Recent rolls: Gained Kämpfen +3, Artifact (sword), Aspect "Haunted by Past Failure"
+Recent rolls: Gained Fight +3, Artifact (sword), Aspect "Haunted by Past Failure"
 
 GM: "Marcus, you're 30. The Battle of Red Ridge was 5 years ago - your failure still stings. But tonight, at the garrison tavern, someone recognizes you..."
 
@@ -487,7 +487,7 @@ Character progression happens through two channels:
 - Should reflect what character learned/experienced
 
 **Example:**
-*"After fighting bandits all week, your Kämpfen improves from +2 to +3"*
+*"After fighting bandits all week, your Fight improves from +2 to +3"*
 
 #### Option B: Change Aspect
 - Swap one Aspect for a new one (except Concept)
@@ -604,7 +604,7 @@ Real Life empowers Game → Game rewards Real Life
 
 **Player chooses:**
 1. **Aspect Transformation:** PROMOTE "Defender of Weak" → "Shield of the Innocent"
-2. **Skill Advancement:** Kämpfen +3 → +4
+2. **Skill Advancement:** Fight +3 → +4
 3. **Buy New Stunt:** "Inspiring Presence: Once per session, allies in sight gain +1 to their next roll"
 4. **Refresh +1:** Increases from 3 to 4 (keeps it for more FP)
 5. **Campaign Reward:** New gaming headset (discussed with GM - appropriate for medium campaign)
@@ -876,8 +876,8 @@ Long (13+ sessions):    Major purchase, special event, significant treat
 
 **1. Skill Advancement:**
 - Player fought constantly throughout siege
-- GM suggests: Kämpfen, Athletik, Wille
-- Player chooses: Kämpfen +3 → +4
+- GM suggests: Fight, Athletik, Wille
+- Player chooses: Fight +3 → +4
 
 **2. Aspect Transformation:**
 - Player had: "Defender of the Weak"
@@ -958,7 +958,7 @@ Below is a quick reference to the most important Fate Core sections you'll need.
 ---
 
 ### **Skills (Fate Core Chapter 5)**
-- **Skill List:** 18 default skills (Athletik, Kämpfen, Wissen, etc.)
+- **Skill List:** 18 default skills (Athletik, Fight, Wissen, etc.)
 - **Skill Actions:** What each skill can do
 - **Skill Descriptions:** Detailed explanations of each skill
 - **Creating New Skills:** Guidelines for custom skills
