@@ -32,4 +32,4 @@ Now that you have all the resources required, it is easy to get startet. Choose 
 
 ---
 
-(c) 2016 mk, under MIT Licence
+(c) 2026 mk, under MIT Licence
