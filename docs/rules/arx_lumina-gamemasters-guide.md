@@ -69,7 +69,7 @@ This rulebook covers **Character Generation and Progression** - how to create an
 
 **Think of it this way:** This rulebook gives you the character. Fate Core gives you the game to play with that character.
 
-What about the world? The Arx Fatalis Real Life Game comes with a fantasy setting described in the **Arx Fatalis Sourcebook**. You can give this grim dark fantasy world a try, although you can play in any setting you can think of, even your favorite movie or show.
+What about the world? The Arx Lumina Real Life Game comes with a fantasy setting described in the **Arx Lumina Sourcebook**. You can give this grim dark fantasy world a try, although you can play in any setting you can think of, even your favorite movie or show.
 
 ## Getting started real quick
 Now that you have all the resources required, it is easy to get startet. Choose your favorite AI, upload the rulebooks and start to chat. Tell the AI, what game world you like to play in. And let the AI guide you through the character creation, progression and adventuring. It is the one thing AI is absolutely good at.

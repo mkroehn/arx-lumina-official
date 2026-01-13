@@ -1,12 +1,12 @@
 ARX LUMINA (The Real-Life Game)
 ========================================================
-**Quick Reference: Character Creation, 2nd Edition**
+**Character Creation Guide, 2nd Edition**
 
 *Authors: Miker, Claude Sonnet 4.5*
 
 ![A character sheet on a fantasy tavern table.](images/img_8.png)
 
-(Version 1.0.0, 10.ß1.2026)
+(Version 1.0.0, 10.01.2026)
 
 <div style="page-break-after: always"></div>
 
@@ -50,6 +50,8 @@ All images created by Google Nano Banana 2.5 Flash via Google AI Studio. Prompts
 
 # 1. WELCOME
 This is a quick reference for creating arx lumina characters. Here you will find tables for setting up the characters backstory and progression. 
+
+This quick reference replaces Chapters 3 to 5 of the original "Arx Lumina Gamemaster Guide" (1st ed.).
 
 The rules are based on the Fate Core Rulebook (https://fate-srd.com/fate-core). 
 
@@ -755,11 +757,67 @@ If the character has more than five aspects:
 ## 6.2 SOME THOUGHTS ON ADVENTURING
 
 ### REWARDS
-At the end of an adventure or a campaign the character gets - apart from virtual things like artefacts or else - a chest with real life coins (rl-coins). The player can use these rl-coins to get real life things as a reward for his activities that earned him rl-xps. 
+
+**Session Rewards**
+At the end of an adventure session the character gets - apart from virtual things like artefacts or else - a chest with real life coins (rl-coins). The player can use these rl-coins to get real life things as a reward for his activities that earned him rl-xps. 
 
 (GM-Hint: Determine an exchange rate rl-coins to currency that suits best.)
 
+**Campaign Rewards**
+Adventuring is most likely organized in a Campaing, where one session builds upon the previous. So there is an overall Goal to pursue and maybe an overall reward to claim in the end. A Campaign Reward can be an invitation from the quest giver for a special event or a special present.
+
+### NARRATIVE PROGRESSION
+
+**Aspects**
+- Get a new (positive or negative) Aspect (clean-up before next adventure)
+- Modify Concept or Complication, but only if Adventure alters Characters Beliefs or Situation fundamentally
+- Modify another existing aspect, maybe drop it ("That's no longer me") (clean-up before next adventure, especially when negative turns to positive or vice versa)
+- Merge two aspects to get a stronger one (e.g. "Friend of Animals" + "Survivalist" → "Master of the Wild"). Yields an "EPIC" aspect. (Max. of 1 epic aspects per character. This should be a character lifetime achievement.)
+
+**Other Attributes**
+- Does the Character acquire a new Quirk?
+- Does the Character acquire a new Rival, Enemy, Contact or Friend?
+- Anything else to add to Character Backstory?
+
+### FATE POINTS
+Refresh Fate Points at the End of Adventure. Refresh Rate is +3. This remains constant unless altered by an artifact (e.g. "The Ring of Fate (refresh+1)")
 
 <div style="page-break-after: always"></div>
 
 # 7. APENDIX
+
+## 7.1 GM TIP: NARRATIVE PROGRESSION
+
+### ASPECTS TRANSFORMATION
+
+**Facilitate Discussion:**
+- "Which aspect feels like it changed during this campaign?"
+- "What did your character learn about themselves?"
+- "Which aspect no longer fits who they've become?"
+
+**GET NEW Is Default:**
+- Safer than Modify/Drop/Merge
+- Always narratively justified
+
+**MODIFY/DROP Needs Justification:**
+- Campaign must have addressed the Aspect
+- Player should WANT the change
+- Makes sense only after character growth arc
+
+**MERGE Is Rare:**
+- Save for major, campaign-ending moments
+- Should feel legendary, not routine
+- Maximum 1 Epic Aspect per character ever
+
+## GM-TIP: WHAT IS AN APPROPRIATE CAMPAIGN REWARD?
+
+- Discuss early what "appropriate" means
+- Consider campaign length (3 sessions vs. 20 sessions)
+- Focus on "treat yourself" not "break the bank"
+
+Examples by Campaign Length:
+```
+Short (3-5 sessions):   Book, game, nice meal
+Medium (6-12 sessions): Gaming gear, weekend trip, hobby equipment  
+Long (13+ sessions):    Major purchase, special event, significant treat
+```
